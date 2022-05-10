@@ -1,0 +1,14 @@
+{
+    "name": "fuckedcord.js",
+    "version": "1.0.0",
+    "description": "I was bored in class when I made this",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Danspotnytool",
+    "license": "ISC",
+    "dependencies": {
+        "ws": "^8.6.0"
+    }
+}
